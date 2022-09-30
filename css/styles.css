@@ -129,12 +129,12 @@ img {
 }
 
 .header-link-list {
-      /* column-gap:var(--gaps-medium); */
+      column-gap:var(--gaps-medium);
 }
 
-.header-link-list li:nth-child(n+2) {
+/* .header-link-list li:nth-child(n+2) {
       margin-left: var(--gaps-medium);
-}
+} */
 
 /* .header-link-list li:first-child {
       margin-left: 0;
