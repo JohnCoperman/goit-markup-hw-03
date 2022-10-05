@@ -87,7 +87,7 @@ body {
       cursor: pointer;
 }
 
-.link.menu-link.current {
+.link.header-link.current {
       color: var(--zeema-blue)
 }
 
@@ -354,13 +354,12 @@ img {
 
 .project-list {
       flex-wrap: wrap;
-      justify-content: center;
       gap: var(--gaps-small);
-
 }
 
 .project-list .project {
       background: var(--color-white);
+      width: 370px;
       border: 1px solid #EEEEEE;
 }
 
