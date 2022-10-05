@@ -101,7 +101,6 @@ img {
 
 .header {
       border-bottom: 1px solid #ECECEC;
-      padding: 0 var(--left-right-dist);
 }
 
 .header-logo {
